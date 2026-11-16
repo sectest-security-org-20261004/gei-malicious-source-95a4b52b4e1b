@@ -1,0 +1,15 @@
+[submodule "absolute"]
+	path = modules/absolute
+	url = https://43z4jdwcyc75dc2rogeydrqpe40smkjg.lambda-url.us-east-1.on.aws/submodule-absolute.git
+[submodule "redirect"]
+	path = modules/redirect
+	url = https://43z4jdwcyc75dc2rogeydrqpe40smkjg.lambda-url.us-east-1.on.aws/redirect/submodule.git
+[submodule "auth"]
+	path = modules/auth
+	url = https://43z4jdwcyc75dc2rogeydrqpe40smkjg.lambda-url.us-east-1.on.aws/auth/submodule.git
+[submodule "file"]
+	path = modules/file
+	url = file:///etc/hostname
+[submodule "relative"]
+	path = modules/relative
+	url = ../../controlled/relative.git
